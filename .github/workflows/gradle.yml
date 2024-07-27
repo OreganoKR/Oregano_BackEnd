@@ -1,9 +1,9 @@
-name: build-test
+name: java_CI
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
